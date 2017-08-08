@@ -1,6 +1,8 @@
 # baike-spider
 百度百科网络爬虫，爬取python词条相关页面的标题和简介。
 
+From https://segmentfault.com/a/1190000008241040#articleHeader10
+
 本文整理自慕课网《Python开发简单爬虫》，将会记录爬取百度百科“python”词条相关页面的整个过程。
 
 抓取策略
